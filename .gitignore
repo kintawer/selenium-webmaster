@@ -1,0 +1,7 @@
+venv
+.idea
+__pycache__
+*.txt
+yandex_sprav
+db_scripts
+yandex_market
