@@ -5,3 +5,4 @@ __pycache__
 yandex_sprav
 db_scripts
 yandex_market
+!requirements.txt
